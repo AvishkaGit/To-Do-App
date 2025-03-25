@@ -28,7 +28,7 @@ function App() {
               <button className='mr-2 p-2 bg-gradient-to-r from-gray-400 to-gray-600 text-white rounded hover:from-gray-500 hover:to-gray-700'>Edit</button>
               <button className='mr-2 p-2 bg-gradient-to-r from-red-400 to-red-600 text-white rounded hover:from-red-500 hover:to-red-700'>Remove</button>
             </div>
-          </li>
+          </li>       
         </ul>
       </div>
     </div>
